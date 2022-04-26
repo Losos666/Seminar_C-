@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\obj\Debug\net6.0\max.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\obj\Debug\net6.0\max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\obj\Debug\net6.0\max.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\obj\Debug\net6.0\max.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\obj\Debug\net6.0\max.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\bin\Debug\net6.0\max.exe
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\bin\Debug\net6.0\max.deps.json
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\bin\Debug\net6.0\max.runtimeconfig.json
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\bin\Debug\net6.0\max.dll
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\bin\Debug\net6.0\max.pdb
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\obj\Debug\net6.0\max.dll
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\obj\Debug\net6.0\refint\max.dll
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\obj\Debug\net6.0\max.pdb
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\obj\Debug\net6.0\max.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar__C#\Ceminar_3\max\obj\Debug\net6.0\ref\max.dll
